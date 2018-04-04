@@ -2,6 +2,8 @@
 
 iSel is icon selectbox for icon fonts. Specially for [zmdi font set](http://http://zavoloklom.github.io/material-design-iconic-font/index.html "zmdi font set"), but adaptation to any icon font should be easy enough.
 
+![screenshot](https://lucorp.sk/image/projects/isel/isel_001.png)
+
 ## Requirements
 
 For default installation you will need:
