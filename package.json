@@ -1,0 +1,19 @@
+{
+  "name": "iSel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "grunt": "^1.0.2",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-sass": "^2.1.0",
+    "grunt-watcher": "^1.0.0"
+  }
+}
