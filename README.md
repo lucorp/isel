@@ -20,7 +20,7 @@ There is iSel.html file with basic functionality for reference.
 
 You can freely modify and adapt functionality to your needs. Please take in account that this is only basic version with minimal number of functionalities. 
 
-For simpler development cycle, there was used node and grunt.
+For simpler development cycle, there was used Node and Grunt.
 
 There is created grunt watcher process, that will automatically compile project js and css files.
 
