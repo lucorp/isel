@@ -10,6 +10,11 @@ For default installation you will need:
 - zmdi font 2.2.0 (http://zavoloklom.github.io/material-design-iconic-font/index.html)
 - jQuery 3.3.1 (http://jquery.com/)
 
+### Installation
+
+`npm install`
+
+
 ### Usage
 
 Just include isel.min.css and isel.min.js files.
