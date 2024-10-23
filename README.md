@@ -19,7 +19,7 @@ For default installation you will need:
 
 Just include isel.min.css and isel.min.js files.
 
-There is iSel.html file with basic functionality for reference.
+There is index.html file with basic functionality for reference.
 
 ### Adaptation
 
