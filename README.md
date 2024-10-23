@@ -37,4 +37,5 @@ Source code is licensed under MIT license. View LICENSE file in sources.
 
 | Version | Date | Functionality |
 | ------------ | ------------ | ------------ |
+| 0.2.0 | 2024-10-23  |  Upgraded node packages. |
 | 0.1.0 | 2018-04-04  |  Published first version with basic functionality. It is possible to select icon for each container separatelly and after selection there is class added to icon container. You must then parse each container separately for its classes. |
