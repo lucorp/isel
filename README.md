@@ -29,6 +29,12 @@ For simpler development cycle, there was used Node and Grunt.
 
 There is created grunt watcher process, that will automatically compile project js and css files.
 
+### Development
+
+To develop this package, you can use grunt to get rid of tedious tasks. From root folder run:
+- grunt -> to run minification of js and translation of scss to css once
+- grunt watch -> to run watcher on top of project files and run specific tasks on file change automatically
+
 ## License
 
 Source code is licensed under MIT license. View LICENSE file in sources.
@@ -37,5 +43,6 @@ Source code is licensed under MIT license. View LICENSE file in sources.
 
 | Version | Date | Functionality |
 | ------------ | ------------ | ------------ |
+| 0.2.1 | 2024-11-23  |  Updated build packages to newest verisons and channged build cycle little bit. |
 | 0.2.0 | 2024-10-23  |  Upgraded node packages. |
 | 0.1.0 | 2018-04-04  |  Published first version with basic functionality. It is possible to select icon for each container separatelly and after selection there is class added to icon container. You must then parse each container separately for its classes. |
